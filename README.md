@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maksym Pecherskyi</h1>
 <h3 align="center">A passionate .Net developer from Ukraine!</h3>
 
-[//]: <> <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpe3447&label=Profile%20views&color=0e75b6&style=flat" alt="maxpe3447" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpe3447&label=Profile%20views&color=0e75b6&style=flat" alt="maxpe3447" /> </p>
 
-[//]: <> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxpe3447" alt="maxpe3447" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxpe3447" alt="maxpe3447" /></a> </p> -->
 
 - 🔭 I’m currently working on [Online Shop](https://github.com/maxpe3447/OpencartShop)
 
