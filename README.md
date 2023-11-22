@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Online Shop](https://github.com/maxpe3447/OpencartShop)
 
-- 🌱 I’m currently learning **.Net(to infinity and beyond😁), Rect, JS, HTML, CSS**
+- 🌱 I’m currently learning **.Net(to infinity and beyond😁), Angular, Rect, JS, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maxpe3447?tab=repositories](https://github.com/maxpe3447?tab=repositories)
 
