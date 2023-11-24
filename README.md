@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dating App](https://github.com/maxpe3447/DatingApp)
 
-- 🌱 I’m currently learning **.Net(to infinity and beyond😁), Angular, Rect, JS, HTML, CSS**
+- 🌱 I’m currently learning **.Net(to infinity and beyond😁), Angular, Rect, JS, TypeScript, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maxpe3447?tab=repositories](https://github.com/maxpe3447?tab=repositories)
 
@@ -52,6 +52,8 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <!--   XAMARIN -->
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
+<!--   MIUA -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0" target="_blank" rel="noreferrer"> <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg" alt="maui" width="40" height="40"/> </a> 
   <br>
 <!--   SQLITE -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
