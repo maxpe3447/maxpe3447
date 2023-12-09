@@ -79,8 +79,27 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxpe3447&show_icons=true&locale=en&layout=compact" alt="maxpe3447" /></p>
+#
+<details open> 
+  <summary><h2>📘 My Projects</h2></summary>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxpe3447&show_icons=true&locale=en" alt="maxpe3447" /></p>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/maxpe3447/DatingApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=DatingApp&theme=dark&bg_color=1F222E" alt="dating-app"></a>
+    <a href="https://github.com/maxpe3447/ToDoList"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=ToDoList&theme=dark&bg_color=1F222E" alt="to-do-list"></a>
+    <a href="https://github.com/maxpe3447/GPSNote"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=GPSNote&theme=dark&bg_color=1F222E" alt="gps-mobile-note"></a>
+    <a href="https://github.com/maxpe3447/TransportProblemWebApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=TransportProblemWebApp&theme=dark&bg_color=1F222E" alt="transport-problem"></a>
+   <a href="https://github.com/maxpe3447/SyZyGy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=SyZyGy&theme=dark&bg_color=1F222E" alt="SyZyGy"></a>
+     <a href="https://github.com/maxpe3447/WebCameraHost"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=WebCameraHost&theme=dark&bg_color=1F222E" alt="web-cam-host"></a>
+     <a href="https://github.com/maxpe3447/WebCamera-MobileClient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=WebCamera-MobileClient&theme=dark&bg_color=1F222E" alt="web-cam-mobile-client"></a>
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxpe3447&" alt="maxpe3447" /></p>
+  <a href="https://github.com/MadScientist11?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxpe3447&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E" alt="maxpe3447" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxpe3447&show_icons=true&locale=en&theme=dark&bg_color=1F222E" alt="maxpe3447" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxpe3447&theme=dark&bg_color=1F222E" alt="maxpe3447" /></p>
