@@ -95,7 +95,7 @@
      <a href="https://github.com/maxpe3447/WebCamera-MobileClient"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=WebCamera-MobileClient&theme=dark&bg_color=1F222E" alt="web-cam-mobile-client"></a>
   </p>
 
-  <a href="https://github.com/MadScientist11?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/maxpe3447?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxpe3447&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E" alt="maxpe3447" /></p>
