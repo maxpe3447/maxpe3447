@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpe3447&label=Profile%20views&color=0e75b6&style=flat" alt="maxpe3447" /> </p>
 
-<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxpe3447" alt="maxpe3447" /></a> </p> -->
-
 - 🔭 I’m currently working on [Dating App](https://github.com/maxpe3447/DatingApp)
 
 - 🌱 I’m currently learning **.Net(to infinity and beyond😁), Angular, Rect, JS, TypeScript, HTML, CSS**
