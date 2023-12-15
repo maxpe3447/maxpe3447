@@ -82,7 +82,7 @@
   <summary><h2>📘 My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+
   <p align="left">
     <a href="https://github.com/maxpe3447/DatingApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=DatingApp&theme=dark&bg_color=1F222E" alt="dating-app"></a>
     <a href="https://github.com/maxpe3447/ToDoList"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=ToDoList&theme=dark&bg_color=1F222E" alt="to-do-list"></a>
