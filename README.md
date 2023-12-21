@@ -93,8 +93,13 @@
   <a href="https://github.com/maxpe3447?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxpe3447&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E" alt="maxpe3447" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxpe3447&show_icons=true&locale=en&theme=dark&bg_color=1F222E" alt="maxpe3447" />
+<a href="https://github.com/maxpe3447/maxpe3447">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxpe3447&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+  </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxpe3447&theme=dark&bg_color=1F222E" alt="maxpe3447" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxpe3447&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E" alt="maxpe3447" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxpe3447&show_icons=true&locale=en&theme=dark&bg_color=1F222E" alt="maxpe3447" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxpe3447&theme=dark&bg_color=1F222E" alt="maxpe3447" /></p>
+</p>
