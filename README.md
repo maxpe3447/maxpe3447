@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpe3447&label=Profile%20views&color=0e75b6&style=flat" alt="maxpe3447" /> </p>
 
-- 🔭 I’m currently working on [Dating App](https://github.com/maxpe3447/DatingApp)
+- 🔭 I’m currently working on [Dating App](https://github.com/maxpe3447/DatingApp) and [FORUM](https://github.com/maxpe3447/TFA)
 
 - 🌱 I’m currently learning **.Net(to infinity and beyond😁), Angular, Rect, JS, TypeScript, HTML, CSS**
 
@@ -84,6 +84,7 @@
   <summary><h2>📘 My Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/maxpe3447/DatingApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=DatingApp&theme=dark&bg_color=1F222E" alt="dating-app"></a>
+    <a href="https://github.com/maxpe3447/TFA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=TFA&theme=dark&bg_color=1F222E" alt="tfa"></a>
     <a href="https://github.com/maxpe3447/ToDoList"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=ToDoList&theme=dark&bg_color=1F222E" alt="to-do-list"></a>
     <a href="https://github.com/maxpe3447/GPSNote"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=GPSNote&theme=dark&bg_color=1F222E" alt="gps-mobile-note"></a>
     <a href="https://github.com/maxpe3447/TransportProblemWebApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=maxpe3447&repo=TransportProblemWebApp&theme=dark&bg_color=1F222E" alt="transport-problem"></a>
