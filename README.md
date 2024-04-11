@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maxpe3447?tab=repositories](https://github.com/maxpe3447?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/maksym-pecheskyi-29491727a/](https://www.linkedin.com/in/maksym-pecheskyi-29491727a/)
+<!--- 📝 I regularly write articles on [https://www.linkedin.com/in/maksym-pecheskyi-29491727a/](https://www.linkedin.com/in/maksym-pecheskyi-29491727a/)-->
 
 - 📫 How to reach me **m.pech.pr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksym-pecheskyi-29491727a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksym-pecheskyi-29491727a/" height="30" width="40" /></a>
+<!--<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksym-pecheskyi-29491727a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksym-pecheskyi-29491727a/" height="30" width="40" /></a>-->
 <a href="https://www.instagram.com/m.a.x_p.e/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.m.asya._" height="30" width="40" /></a>
 </p>
 
