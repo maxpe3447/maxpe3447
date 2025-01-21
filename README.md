@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpe3447&label=Profile%20views&color=0e75b6&style=flat" alt="maxpe3447" /> </p>
 
-- 🔭 I’m currently working on **Rent manager - AIDA**
+- 🔭 I’m currently working on **Unity Bars**
 
 - 🌱 I’m currently learning **.Net(to infinity and beyond😁), Angular, Rect, JS, TypeScript, HTML, CSS**
 
