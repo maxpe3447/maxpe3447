@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maksym Pecherskyi</h1>
-<h3 align="center">A passionate .Net developer from Ukraine!</h3>
+<h3 align="center">Full-stack .Net developer from Ukraine!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxpe3447&label=Profile%20views&color=0e75b6&style=flat" alt="maxpe3447" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 **.Net(to infinity and beyond😁), Angular, Rect, JS, TypeScript, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maxpe3447?tab=repositories](https://github.com/maxpe3447?tab=repositories)
+<!--- - 👨‍💻 All of my projects are available at [https://github.com/maxpe3447?tab=repositories](https://github.com/maxpe3447?tab=repositories)-->
 
 <!--- 📝 I regularly write articles on [https://www.linkedin.com/in/maksym-pecheskyi-29491727a/](https://www.linkedin.com/in/maksym-pecheskyi-29491727a/)-->
 
